@@ -1,0 +1,12 @@
+,Port1,Port2,Port3,Port4,Port5
+20180109,"Index(['ethereum', 'adx-net', 'neo', 'rlc', 'ark', 'singulardtv', 'zcash',
+       'crypto-com', 'bitcoin'],
+      dtype='object')","Index(['kyber-network', 'monero', 'litecoin', 'komodo', 'waves', 'wings',
+       'primas', 'syscoin', 'dash'],
+      dtype='object')","Index(['ardor', 'nebulas-token', 'stratis', 'cvcoin', 'agrello-delta', 'steem',
+       'bitcoin-cash', 'factom'],
+      dtype='object')","Index(['nexus', 'eos', '0x', 'iota', 'agoras-tokens', 'neblio', 'loopring',
+       'nem', 'district0x'],
+      dtype='object')","Index(['nano', 'cardano', 'stellar', 'suncontract', 'vibe', 'enigma',
+       'red-pulse', 'populous'],
+      dtype='object')"

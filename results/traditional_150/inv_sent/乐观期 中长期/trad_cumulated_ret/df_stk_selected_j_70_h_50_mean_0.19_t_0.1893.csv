@@ -1,0 +1,19 @@
+,Port1,Port2,Port3,Port4,Port5
+20171110,"Index(['steem', '0x', 'district0x', 'stratis', 'wings', 'suncontract',
+       'nexus'],
+      dtype='object')","Index(['ethereum', 'litecoin', 'nem', 'iota', 'factom', 'crypto-com',
+       'primas'],
+      dtype='object')","Index(['cvcoin', 'agoras-tokens', 'nano', 'zcash', 'monero', 'waves', 'dash'], dtype='object')","Index(['singulardtv', 'syscoin', 'adx-net', 'bitcoin-cash', 'neo', 'rlc',
+       'eos'],
+      dtype='object')","Index(['komodo', 'stellar', 'ardor', 'populous', 'bitcoin', 'ark'], dtype='object')"
+20171230,"Index(['ethereum', 'bitcoin', 'kyber-network', 'loopring', 'neblio',
+       'crypto-com', 'district0x', 'singulardtv', 'cvcoin'],
+      dtype='object')","Index(['factom', 'ark', 'wings', 'nexus', 'neo', 'rlc', 'zcash',
+       'agrello-delta'],
+      dtype='object')","Index(['monero', 'litecoin', 'dash', 'waves', 'primas', '0x', 'adx-net',
+       'steem'],
+      dtype='object')","Index(['bitcoin-cash', 'ardor', 'vibe', 'enigma', 'komodo', 'syscoin',
+       'stratis', 'nem'],
+      dtype='object')","Index(['nano', 'cardano', 'eos', 'populous', 'suncontract', 'iota',
+       'agoras-tokens', 'stellar'],
+      dtype='object')"

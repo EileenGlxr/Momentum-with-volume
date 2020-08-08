@@ -1,0 +1,27 @@
+,Port1,Port2,Port3,Port4,Port5
+20170921,"Index(['adx-net', 'factom', '0x', 'stellar', 'district0x', 'primas', 'eos'], dtype='object')","Index(['monero', 'stratis', 'nano', 'neo', 'zcash', 'litecoin', 'suncontract'], dtype='object')","Index(['ethereum', 'populous', 'waves', 'steem', 'iota', 'nem'], dtype='object')","Index(['rlc', 'bitcoin', 'ardor', 'agoras-tokens', 'bitcoin-cash',
+       'crypto-com', 'wings'],
+      dtype='object')","Index(['komodo', 'singulardtv', 'ark', 'nexus', 'dash', 'syscoin'], dtype='object')"
+20171120,"Index(['singulardtv', 'syscoin', 'steem', 'district0x', 'cardano', 'red-pulse',
+       'crypto-com', 'rlc', 'neblio'],
+      dtype='object')","Index(['agoras-tokens', '0x', 'nem', 'agrello-delta', 'komodo', 'stratis',
+       'enigma', 'nexus'],
+      dtype='object')","Index(['vibe', 'stellar', 'bitcoin', 'ardor', 'loopring', 'kyber-network',
+       'adx-net', 'ethereum', 'wings'],
+      dtype='object')","Index(['monero', 'neo', 'nano', 'ark', 'factom', 'zcash', 'litecoin',
+       'primas'],
+      dtype='object')","Index(['bitcoin-cash', 'populous', 'eos', 'iota', 'cvcoin', 'dash', 'waves',
+       'suncontract'],
+      dtype='object')"
+20180119,"Index(['bitcoin', 'litecoin', 'adx-net', 'dash', 'iota',
+       'ripio-credit-network', 'crypto-com', 'bitcoin-cash', 'waves', 'komodo',
+       'primas'],
+      dtype='object')","Index(['stratis', 'factom', 'streamr-datacoin', 'red-pulse', 'cardano',
+       'zcash', 'ardor', 'ark', 'monero', 'syscoin', 'wings'],
+      dtype='object')","Index(['kyber-network', 'cryptonex', 'time-new-bank', 'power-ledger', 'wax',
+       'ormeus-coin', 'eos', 'populous', 'singulardtv', 'nem'],
+      dtype='object')","Index(['rlc', 'suncontract', 'quantstamp', 'agrello-delta', 'enigma',
+       'nebulas-token', 'stellar', 'steem', 'district0x', 'nano', 'ethereum'],
+      dtype='object')","Index(['vibe', 'neblio', 'dynamic-trading-rights', 'nuls', 'loopring', '0x',
+       'nexus', 'cvcoin', 'qash', 'neo'],
+      dtype='object')"

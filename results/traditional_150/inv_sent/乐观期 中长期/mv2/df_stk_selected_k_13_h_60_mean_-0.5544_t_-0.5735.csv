@@ -1,0 +1,28 @@
+,Port1,Port2,Port3,Port4,Port5
+20170915,"Index(['rlc', 'wings', 'populous', 'suncontract', 'nano', 'agoras-tokens',
+       'cvcoin'],
+      dtype='object')","Index(['district0x', 'steem', 'nem', 'factom', 'ardor', 'waves', 'stellar'], dtype='object')","Index(['ethereum', '0x', 'dash', 'zcash', 'singulardtv', 'nexus', 'stratis'], dtype='object')","Index(['crypto-com', 'iota', 'ark', 'syscoin', 'eos', 'monero', 'adx-net'], dtype='object')","Index(['neo', 'bitcoin', 'litecoin', 'bitcoin-cash', 'komodo', 'primas'], dtype='object')"
+20171114,"Index(['steem', 'neblio', 'agrello-delta', 'nexus', 'suncontract', 'wings',
+       'primas', 'vibe', 'agoras-tokens'],
+      dtype='object')","Index(['populous', 'cvcoin', 'ardor', '0x', 'rlc', 'kyber-network', 'nano',
+       'enigma', 'loopring'],
+      dtype='object')","Index(['stratis', 'ark', 'nem', 'syscoin', 'adx-net', 'district0x',
+       'red-pulse', 'komodo'],
+      dtype='object')","Index(['neo', 'cardano', 'stellar', 'bitcoin', 'factom', 'waves', 'crypto-com',
+       'nebulas-token', 'singulardtv'],
+      dtype='object')","Index(['bitcoin-cash', 'dash', 'ethereum', 'monero', 'eos', 'litecoin', 'iota',
+       'zcash'],
+      dtype='object')"
+20180113,"Index(['streamr-datacoin', 'wings', 'populous', 'komodo', 'ardor', 'syscoin',
+       'cvcoin', 'dynamic-trading-rights', 'ormeus-coin', 'primas',
+       'cryptonex'],
+      dtype='object')","Index(['kyber-network', 'nuls', 'dash', 'monero', 'singulardtv', 'ark',
+       'adx-net', 'waves', 'crypto-com', 'suncontract',
+       'ripio-credit-network'],
+      dtype='object')","Index(['stratis', 'nebulas-token', 'qash', 'red-pulse', 'quantstamp',
+       'agrello-delta', 'iota', 'district0x', 'power-ledger', 'factom'],
+      dtype='object')","Index(['loopring', 'nano', 'wax', 'nem', 'steem', 'nexus', 'neo', 'zcash',
+       'time-new-bank', 'enigma', '0x'],
+      dtype='object')","Index(['vibe', 'bitcoin', 'neblio', 'stellar', 'ethereum', 'bitcoin-cash',
+       'eos', 'rlc', 'litecoin', 'cardano'],
+      dtype='object')"
